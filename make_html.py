@@ -522,6 +522,10 @@ body.zh .en,body.en .zh{display:none}
       <span class="zh">\u9010\u573a\u914d\u5bf9\uff0c<b>%(n_pair)d \u573a\u5168\u90e8\u66f4\u8d35\uff0c\u65e0\u4e00\u4f8b\u5916</b>\u3002\u6709\u4ef7\u503c\u7684\u4e0d\u662f\u5b83\u8d35\uff0c\u662f<b>\u5b83\u8d35\u7684\u65b9\u5f0f</b>\u3002</span>
       <span class="en">Paired match by match: the lottery is more expensive in <b>%(n_pair)d of %(n_pair)d</b>, no exceptions. The finding is not that it is expensive &mdash; it is <b>how</b> it is expensive.</span>
     </p>
+    <p class="muted">
+      <span class="zh">数据页：<a href="data_log.html">每日数据页（自动更新）</a> &mdash; 每个比赛日重建场次数与抽水，含逐日明细 CSV。</span>
+      <span class="en">Data page: <a href="data_log.html">daily data log (auto-updated)</a> &mdash; matches measured and margin rebuilt after every match day, with a per-day CSV.</span>
+    </p>
   </div>
 </header>
 
