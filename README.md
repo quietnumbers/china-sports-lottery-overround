@@ -25,6 +25,10 @@ Reproduce every number above in one command:
 python3 overround.py --check
 ```
 
+Live updates: **[daily data log](data_log.html)** (matched count and margin by
+day, rebuilt after every match day) · raw per-day series in
+[`data_log.csv`](data_log.csv).
+
 ---
 
 ## 1. The measure
