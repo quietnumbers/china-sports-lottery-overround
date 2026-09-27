@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code, or any of the numbers in this report, cite it as below."
+title: "China's Sports Lottery is not a betting market - it's a formula"
+abstract: >-
+  897 Chinese Sports Lottery (竞彩) football matches, 2026-05-17 to 2026-09-25, each paired with the
+  same fixture's European "99 bookmakers average" closing odds. The lottery carries a 12.92% margin
+  with sigma = 0.0006; the European average carries 6.85% with sigma = 0.0109. The lottery is more
+  expensive in 897 of 897 matches. The finding is that the lottery's price barely moves because it is
+  computed from a fixed payout parameter rather than set by a market: a price that does not move
+  cannot be wrong, so there is no mispricing to find. Also includes 15 betting rules over a
+  1,617-bet sample, none of which passes a pre-registered threshold of n >= 300 and 95% CI lower
+  bound > 0.
+authors:
+  - name: "Anonymous"
+date-released: "2026-09-27"
+version: "1.0.0"
+license: MIT
+type: dataset
+keywords:
+  - overround
+  - sports betting
+  - sports lottery
+  - market efficiency
+  - China
+  - reproducibility
+  - football
