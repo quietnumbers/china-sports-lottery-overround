@@ -2,6 +2,8 @@
 
 *中文版：[README.zh-CN.md](README.zh-CN.md)*
 
+*Also published as a long-form article on [dev.to](https://dev.to/quietnumbers/chinas-sports-lottery-is-not-a-betting-market-its-a-formula-26g).*
+
 **Measured margin on 897 Chinese Sports Lottery (竞彩) football matches: 12.92%.**
 The same 897 matches, priced at the European "99 bookmakers average" close: **6.85%.**
 The lottery is more expensive in **897 of 897 matches** — no exceptions.
