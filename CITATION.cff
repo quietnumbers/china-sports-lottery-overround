@@ -10,6 +10,8 @@ abstract: >-
   cannot be wrong, so there is no mispricing to find. Also includes 15 betting rules over a
   1,617-bet sample, none of which passes a pre-registered threshold of n >= 300 and 95% CI lower
   bound > 0.
+doi: 10.17605/OSF.IO/8GJRV
+url: "https://doi.org/10.17605/OSF.IO/8GJRV"
 authors:
   - name: "Anonymous"
 date-released: "2026-09-27"
